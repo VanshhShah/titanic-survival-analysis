@@ -17,13 +17,7 @@ Target: `Survived` (0 = No, 1 = Yes)
 accuracy on training data: 80.75%
 accuracy on test data: 78.21%
 
-## Tech Stack
-
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
-Jupyter Notebook
+used Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 
 ## How to Run
 
