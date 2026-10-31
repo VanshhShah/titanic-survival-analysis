@@ -1,6 +1,6 @@
 # Titanic Survival Analysis
 
-Exploratory data analysis and a baseline machine learning model on the Kaggle Titanic dataset, to understand which factors influenced passenger survival.
+learning how ML works and saw many people started with this so i did too
 
 ## Dataset
 
